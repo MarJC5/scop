@@ -2,7 +2,7 @@ all:
 	cargo build
 
 run:
-	cargo run
+	cargo run -- ./res/models/42.obj
 
 clean:
 	cargo clean

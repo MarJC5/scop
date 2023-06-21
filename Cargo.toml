@@ -6,10 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-gl      = "0.14" # OpenGL bindings
-glfw    = "0.39" # OpenGL bindings
-image   = "*" # Load images from disk
-
-[[bin]]
-name    = "scop"
-path    = "src/main.rs"
+glium = "*" # OpenGL bindings

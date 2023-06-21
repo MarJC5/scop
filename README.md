@@ -10,6 +10,16 @@
 
 The goal of this project is to create a small 3D game engine using OpenGL. The engine will be able to load a 3D model in OBJ format, display it on the screen, and allow the user to interact with it using the keyboard and mouse.
 
+## Documentations
+
+- [OpenGL](https://www.opengl.org/)
+- [GLFW](https://www.glfw.org/)
+- [Learn OpenGL](https://learnopengl.com/)
+- [Learn OpenGL - Camera](https://learnopengl.com/Getting-started/Camera)
+- [Learn OpenGL - Model loading](https://learnopengl.com/Model-Loading/Model)
+- [Learn OpenGL - Lighting](https://learnopengl.com/Lighting/Basic-Lighting)
+- [Learn OpenGL - Materials](https://learnopengl.com/Lighting/Materials)
+
 ## Features
 
 - [ ] 3D model loading in OBJ format
